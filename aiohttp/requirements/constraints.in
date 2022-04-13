@@ -1,4 +1,0 @@
--r cython.txt
--r dev.txt
--r doc-spelling.txt
--r lint.txt
